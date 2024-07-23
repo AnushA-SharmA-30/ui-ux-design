@@ -1,5 +1,6 @@
 # ui-ux-design with figma
 UX / UI PROJECT BRIEF
+designing wireframes for a given product aimed at a particular audience
 // RANDOM PROJECT GENERATOR
 swift Laptop
 
